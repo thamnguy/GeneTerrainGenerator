@@ -1,0 +1,4 @@
+SampleID	Gene1	Gene2	Gene3
+Sample1	1.2	3.5	109.74
+Sample2	7.02	8	9.84
+Sample3	19.974	4.53	4.31

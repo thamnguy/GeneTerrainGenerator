@@ -1,0 +1,3 @@
+Gene1	Gene2	0.9
+Gene2	Gene3	0.5
+Gene3	Gene1	0.3
